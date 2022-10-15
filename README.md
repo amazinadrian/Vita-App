@@ -5,6 +5,11 @@
 
 ## Introduction
 > Vita is a photo sharing app that allows users to post their own photos, location, and descriptions. Today, everyone has a phone that allows them to take photos. But a lot of the time's, their taking selflies. Although that's great and all (you do you), sometimes you forget to be present in the moment of your vita. Photograph the important moments in life, or a funny moment, maybe something that makes you feel all the emotions that every human has. Imagine sitting on the edge of a cliff watcching the sunset, How does that make you feel? Take a picture of that sunset and/or take a photo of you watching that sunset and remember that feeling of being up there and watching it. Document that moment, Document your vita life at that moment. 
+<br>
+<br>
+<a href="https://vita-life-story.herokuapp.com/">View Live Site</a>
+
+<a href="https://vita-life-story.herokuapp.com/">View Live Site</a>
 
 
 ## Technologies Used
@@ -22,6 +27,7 @@ See our:
 - [Planning](https://trello.com/b/wMj2E6Ry/vita)!
 - [IdeaPresenation](https://docs.google.com/presentation/d/1Y_AP81LCU-uy5APLws2W9dZVUkHlW-7KelpI6sdv1C4/edit#slide=id.g15b331459d1_0_76)
 - [Wireframe](https://drive.google.com/file/d/1HSqjlRMxnD7rFOUQAGESBLbLm7SvRaiq/view?usp=sharing)
+- [Vita App](https://vita-life-story.herokuapp.com/)
 
 
 ## User Stories
@@ -34,10 +40,7 @@ As a user:
 - I want to be able to tag my photos 
 
 
-## Unsolved Porblems
-
-
-
 ## Future Enhancements
-- See a list of all photo's uploaded by a user
+- Sort photos by categories 
+- Community for people to see other user's photo album
 
